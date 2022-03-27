@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="Imagenes">
+    <file>Imagenes/Agents png/936911b1b403e2b73aa88f51d6ddc8f3.png</file>
+    <file>Imagenes/Agents png/KAYO_KeyArt_587x900.png</file>
+    <file>Imagenes/Agents png/Neon_KeyArt-Web.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_ALL_Raze_2.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_ALL_Skye.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_ALL_Sova_2.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_Astra.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_Breach.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_Brimstone.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_Cypher.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_Jett.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_KillJoy_.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_Omen.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_Phx.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_Reyna.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_sage.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_Viper.png</file>
+    <file>Imagenes/Agents png/V_AGENTS_587x900_yoru.png</file>
+    <file>Imagenes/Agents png/WebUpdate_Chamber_KeyArt.png</file>
+  </qresource>
+</RCC>
